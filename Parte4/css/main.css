@@ -1,0 +1,20 @@
+/* Pon tu código css aqui */
+div:not(.contenedor) {
+ 	height: 100px;
+ 	width: 200px;
+ 	float:left;
+ 	
+ }
+ .contenedor {
+ 	border: 1px solid grey;
+ 	overflow: auto;
+ }
+ .amarillo{
+ 	background-color: yellow;
+ }
+ .azul {
+ 	background-color: #0066CC;
+ }
+ .pink {
+ 	background-color: #CC0033;
+ }
